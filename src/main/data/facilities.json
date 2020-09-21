@@ -3448,6 +3448,16 @@
     "description": "STUDIO L'EQUIPE"
   },
   {
+    "code": "RES",
+    "contact": {
+      "address": "855 Turnpike Street, North Andover, MA 01864",
+      "email": "resolutionpost308@gmail.com",
+      "name": "Jonathan Bird"
+    },
+    "description": "Resolution Post",
+    "url": "https://resolutionpostproduction.com/"
+  },
+  {
     "code": "SET",
     "description": "Sette Postproduction"
   },
